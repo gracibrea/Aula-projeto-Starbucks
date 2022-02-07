@@ -78,3 +78,52 @@ header .line {
 .banner .container {
     vertical-align: middle;
 }
+
+.area1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.area1--content {
+    height: 700px;
+    padding: 0 0 0 20px;
+}
+
+.hbar {
+    background-color: #117050;
+    width: 168px;
+    height: 22px;
+    margin: 55px auto 0 0;
+}
+
+.area1--content h1 {
+    font-size: 36px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 40px;
+    margin: 11px 20px 0 0;
+}
+
+.area1--content .citation {
+    margin: 20px 20px 0 0;
+}
+
+.area1--content p {
+    margin: 30px 20px 0 0;
+}
+
+.area1--img1 { 
+    background-color: green;
+    background-image: url(/assets/images/f2.jpg);
+    background-size: cover;
+    height: 500px;
+
+}
+.area1--img2 { 
+    background-color: blue;
+    grid-column: 2 / span 2;
+    grid-row: 1 / span 2;
+    background-image: url(/assets/images/f1.jpg);
+    background-size: cover;
+}
+
+
