@@ -92,7 +92,7 @@ header .line {
 }
 
 .banner {
-    background-image: url('./images/bg.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: cover;
     background-position: 50% 50%;
     vertical-align: middle;
@@ -140,7 +140,7 @@ header .line {
 }
 
 .area1--img1 { 
-    background-image: url(/assets/images/f2.jpg);
+    background-image: url('../images/f2.jpg');
     background-size: cover;
     background-position: center;
     height: 350px;    
@@ -149,13 +149,13 @@ header .line {
 .area1--img2 { 
     grid-column: 2 / span 2;
     grid-row: 1 / span 2;
-    background-image: url(/assets/images/f1.jpg);
+    background-image: url('../images/f1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .area2--img1 { 
-    background-image: url(/assets/images/f4.jpg);
+    background-image: url('../images/f4.jpg');
     background-size: cover;
     height: 450px;
     background-position: center;
@@ -164,13 +164,13 @@ header .line {
 .area2--img2 { 
     grid-column: 1 / span 1;
     grid-row: 1 / span 2;
-    background-image: url(/assets/images/f3.jpg);
+    background-image: url('../images/f3.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .area3--img1 { 
-    background-image: url(/assets/images/f5.jpg);
+    background-image: url('../images/f5.jpg');
     background-size: cover;
     height: 750px;
     background-position: center;
@@ -179,7 +179,7 @@ header .line {
 .area3--content {
     padding: 160px 80px;
     margin-bottom: 0px;
-    background-image: url(/assets/images/bg2.jpg);
+    background-image: url('../images/bg2.jpg');
     background-size: cover;
     background-position: left bottom;    
 }
@@ -195,13 +195,13 @@ header .line {
 }
 
 .area4--img1 {
-    background-image: url(/assets/images/bg3.jpg);   
+    background-image: url('../images/bg3.jpg');   
     background-size: cover; 
     background-position: left;
 }
 
 .area5 {
-    background-image: url(/assets/images/bg4.jpg);
+    background-image: url('../images/bg4.jpg');
     background-size: cover;
     background-position: center;
     height: 650px;
