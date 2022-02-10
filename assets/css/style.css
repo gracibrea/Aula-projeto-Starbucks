@@ -92,7 +92,7 @@ header .line {
 }
 
 .banner {
-    background-image: url('/assets/images/bg.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: cover;
     background-position: 50% 50%;
     vertical-align: middle;
