@@ -1,5 +1,7 @@
 ## Projeto Starbucks
 
+![image](https://user-images.githubusercontent.com/88933480/157979021-b05e0cf3-1f71-4b1e-b0d9-e8010b103172.png)
+
 Desenvolvido em aula de HTML5 e CSS3 aplicando aprendizados de CSS Grid e Flexbox.
 
 Foi o exercício em que eu mais consegui me antecipar ao professor atingindo os mesmos resultados.
